@@ -1,0 +1,5 @@
+2022-04-23 13:55:23,184 - /home/shilpa/Git/TestPythonSelenium/TestScripts/testHomepage.py - 	LN:16 - INFO - *************** test_homepage *****************
+2022-04-23 13:55:23,184 - /home/shilpa/Git/TestPythonSelenium/TestScripts/testHomepage.py - 	LN:16 - INFO - ****Started Home page title test ****
+2022-04-23 13:55:25,717 - /home/shilpa/Git/TestPythonSelenium/TestScripts/testHomepage.py - 	LN:16 - INFO - **** Home page title test passed ****
+2022-04-23 13:55:27,076 - /home/shilpa/Git/TestPythonSelenium/TestScripts/testHomepage.py - 	LN:16 - INFO - ****Credential Test case***
+2022-04-23 13:55:31,129 - /home/shilpa/Git/TestPythonSelenium/TestScripts/testHomepage.py - 	LN:16 - INFO - **** Login Succesful ****
